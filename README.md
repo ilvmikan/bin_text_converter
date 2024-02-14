@@ -14,17 +14,24 @@ you will need a c++ development envirtoment installed on your system like: g++, 
 
 clone the repository to your local machine:
 
-`git clone https://github.com/ilvmikan/bin_text_converter`
+```
+git clone https://github.com/ilvmikan/bin_text_converter`
+```
 
 navigate to the cloned directory:
 
-`cd bin_text_converter`
+```
+cd bin_text_converter
+```
 
 compile the program using your C++ compiler. For example, with g++:
 
-`g++ -o program program.cpp`
+```
+g++ -o program program.cpp
+```
 
 run the executable:
+
 ```
-`./program
+./program
 ```
