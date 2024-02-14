@@ -27,7 +27,7 @@ cd bin_text_converter
 compile the program using your C++ compiler. For example, with g++:
 
 ```
-g++ -o program program.cpp
+g++ main.cpp -o program
 ```
 
 run the executable:
